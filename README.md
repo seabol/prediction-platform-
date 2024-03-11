@@ -1,2 +1,2 @@
-# prediction-platform-
+# prediction-platform
 using the c# programming
